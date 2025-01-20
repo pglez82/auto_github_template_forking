@@ -8,7 +8,15 @@ TEMPLATE_REPO = "Arquisoft/wichat_0"
 ORGANIZATION = "Arquisoft"  # Organization name
 
 # List of new repository names
-NEW_REPOS = ["wichat_es1a"]
+NEW_REPOS = ["wichat_es1a","wichat_es1b","wichat_es1c",
+             "wichat_es2a","wichat_es2b","wichat_es2c",
+             "wichat_es3a","wichat_es3b","wichat_es3c",
+             "wichat_es4a","wichat_es4b","wichat_es4c",
+             "wichat_es5a","wichat_es5b","wichat_es5c",
+             "wichat_es6a","wichat_es6b","wichat_es6c",
+             "wichat_en1a","wichat_en1b","wichat_en1c",
+             "wichat_en2a","wichat_en2b","wichat_en2c",
+             "wichat_en3a","wichat_en3b","wichat_en3c",]
 
 # Files to update
 FILES_TO_UPDATE = [
